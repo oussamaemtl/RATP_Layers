@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": "PONT_1", "name": "Pont Carrousel" }, "geometry": { "type": "Point", "coordinates": [ 2.332932457671234, 48.859381617204775 ] } },
+{ "type": "Feature", "properties": { "ID": "PONT_2", "name": "Pont de l'Alma" }, "geometry": { "type": "Point", "coordinates": [ 2.301731246031892, 48.863474825934134 ] } },
+{ "type": "Feature", "properties": { "ID": "PONT_3", "name": "Pont au Change" }, "geometry": { "type": "Point", "coordinates": [ 2.346848059523268, 48.856684848913204 ] } },
+{ "type": "Feature", "properties": { "ID": "PONT_4", "name": "Pont de la tournelle" }, "geometry": { "type": "Point", "coordinates": [ 2.355515021164763, 48.850709179476723 ] } },
+{ "type": "Feature", "properties": { "ID": "PONT_5", "name": "Pont de la Concorde" }, "geometry": { "type": "Point", "coordinates": [ 2.319655203703803, 48.863390290191035 ] } },
+{ "type": "Feature", "properties": { "ID": "PONT_6", "name": "Pont Royal" }, "geometry": { "type": "Point", "coordinates": [ 2.330025865606501, 48.860240435679259 ] } },
+{ "type": "Feature", "properties": { "ID": "PONT_7", "name": "Pont d'Arcole" }, "geometry": { "type": "Point", "coordinates": [ 2.350664042329043, 48.855572849541545 ] } }
+]
+}
