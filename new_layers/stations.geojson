@@ -375,6 +375,7 @@
 { "type": "Feature", "properties": { "ID": "IDFM:28138", "LIGNE": "Ligne B", "STATION": "La Courneuve - Aubervilliers RER", "CARACTERISTIC": "flux différenciés" }, "geometry": { "type": "Point", "coordinates": [ 2.384091726367742, 48.923513661235333 ] } },
 { "type": "Feature", "properties": { "ID": "IDFM:28138", "LIGNE": "Ligne B", "STATION": "La Courneuve - Aubervilliers RER", "CARACTERISTIC": "Fontaine à eau" }, "geometry": { "type": "Point", "coordinates": [ 2.384091726367742, 48.923513661235333 ] } },
 { "type": "Feature", "properties": { "ID": "IDFM:18841", "LIGNE": "Ligne B", "STATION": "Gare d'Aulnay-sous-Bois", "CARACTERISTIC": "flux différenciés" }, "geometry": { "type": "Point", "coordinates": [ 2.496385249838935, 48.932527449612309 ] } },
-{ "type": "Feature", "properties": { "ID": "IDFM:18874", "LIGNE": "Ligne B", "STATION": "Gare d'Aulnay-sous-Bois", "CARACTERISTIC": "flux différenciés" }, "geometry": { "type": "Point", "coordinates": [ 2.49390840273538, 48.931779608391679 ] } }
+{ "type": "Feature", "properties": { "ID": "IDFM:18874", "LIGNE": "Ligne B", "STATION": "Gare d'Aulnay-sous-Bois", "CARACTERISTIC": "flux différenciés" }, "geometry": { "type": "Point", "coordinates": [ 2.49390840273538, 48.931779608391679 ] } },
+{ "type": "Feature", "properties": { "ID": "UNSELECT ALL", "LIGNE": "UNSELECT ALL", "STATION": "UNSELECT ALL", "CARACTERISTIC": "UNSELECT ALL" }, "geometry": null }
 ]
 }
